@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://zhuxu.github.io/blog/2014/04/20/hello-everybody/</loc>
+        <lastmod>2014-04-20T14:29:38+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://zhuxu.github.io/</loc>
-        <lastmod>2014-04-20T14:20:06+08:00</lastmod>
+        <lastmod>2014-04-20T14:29:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://zhuxu.github.io/blog/archives/</loc>
-        <lastmod>2014-04-20T14:20:06+08:00</lastmod>
+        <lastmod>2014-04-20T14:29:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://zhuxu.github.io/robots.txt</loc>
