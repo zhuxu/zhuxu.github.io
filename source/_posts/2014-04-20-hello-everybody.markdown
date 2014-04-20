@@ -8,4 +8,4 @@ categories: operating system
 So guys</br>
 whats up
 
-{% img left http://127.0.0.1:4000/images/myself.JPG Stupid ET #2 %}
+{% img left http://zhuxu.github.io/images/myself.png Stupid ET #2 %}
