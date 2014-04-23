@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: system | math or code]]></title>
-  <link href="http://zhuxu.github.io/blog/categories/system/atom.xml" rel="self"/>
+  <title><![CDATA[Category: myself | math or code]]></title>
+  <link href="http://zhuxu.github.io/blog/categories/myself/atom.xml" rel="self"/>
   <link href="http://zhuxu.github.io/"/>
-  <updated>2014-04-20T22:14:18+08:00</updated>
+  <updated>2014-04-23T17:24:41+08:00</updated>
   <id>http://zhuxu.github.io/</id>
   <author>
     <name><![CDATA[zhuxu]]></name>
